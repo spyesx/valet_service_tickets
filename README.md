@@ -39,4 +39,4 @@ Don Ruiz (Wedding planner / Graphic designer) : Graphic design
 
 [simonmeggle / sahi2omd](https://github.com/simonmeggle/sahi2omd/blob/master/userdata/include/sprintf.inc) : sprintf function
 
-La Romana Country Side (Resort and weddings) : Thank for allowing us to share your file.
+La Romana Country Side (Resort and weddings) : Thanks for allowing us to share your file.
